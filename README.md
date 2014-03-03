@@ -1,6 +1,6 @@
 # Easily replicate the full npmjs registry in a Docker-friendly container
 
-> Build on the backs of [docker-npmjs](https://github.com/terinjokes/docker-npmjs), [docker-couchdb](https://github.com/terinjokes/docker-couchdb), and [baseimage-docker](https://github.com/phusion/baseimage-docker), docker-npmjs-fullfat is an easy to use container that replicates the entire public npmjs registry, excluding attachments.
+> Build on the backs of [docker-npmjs](https://github.com/terinjokes/docker-npmjs), [docker-couchdb](https://github.com/terinjokes/docker-couchdb), and [baseimage-docker](https://github.com/phusion/baseimage-docker), docker-npmjs-skim is an easy to use container that replicates the entire public npmjs registry, excluding attachments.
 
 This container is available for pulling from [the Docker registry](https://index.docker.io/u/terinjokes/npmjs-skim)!
 
