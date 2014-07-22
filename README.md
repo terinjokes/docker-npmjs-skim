@@ -23,6 +23,6 @@ For more information, see the Docker documentation on [mounting a host directory
 
 ## Related Projects
 
+- Itching to use CouchDB in your next project? Check out [docker-couchdb](https://github.com/terinjokes/docker-couchdb).-
 - Looking to create a private npmjs registry? [docker-npmjs](https://github.com/terinjokes/docker-npmjs).
-- Want a mirror of the public npmjs registry with the attachments? [skim](https://github.com/terinjokes/docker-npmjs-fullfat).
 - Private registry with delegation to a public registry more your taste? [docker-npmjs-delegate](https://github.com/terinjokes/docker-npmjs-delegate).
